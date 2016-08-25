@@ -22,10 +22,21 @@
 .bold {
     font-weight: strong;
 }
+.product {
+    padding-top: 20px;
+    max-width: 350px;
+
+}
 
 .med {
     font-size: 22px;
+
  }
+
+.large {
+    font-size: 30px;
+ }
+
 .navbar .nav > li > a {
     color:  black;
 }
@@ -39,6 +50,10 @@
 }
 .navbar {
     border-bottom: solid 4px black;
+}
+.title {
+    border-bottom: solid 2px black;
+    padding-bottom: 50px;
 }
 /* GLOBAL STYLES
 -------------------------------------------------- */
